@@ -1,4 +1,4 @@
-📝 Nombre del Proyecto: Agenda de Estudiantes (Enunciado Generado con IA)
+# 📝 Nombre del Proyecto: Agenda de Estudiantes (Enunciado Generado con IA)
 
 🎯 Objetivo
 Crear una aplicación web con React donde se pueda:
